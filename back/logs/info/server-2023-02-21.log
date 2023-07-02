@@ -1,0 +1,31 @@
+{"level":"info","message":"server - App listening on port 3000","timestamp":"2023-02-22T00:10:05.718Z"}
+{"level":"info","message":"server - App listening on port 3000","timestamp":"2023-02-22T00:23:44.389Z"}
+{"level":"info","message":"server - App listening on port 3000","timestamp":"2023-02-22T01:04:49.792Z"}
+{"level":"info","message":"OPTIONS /api/auth 204 2.204 ms - 0","timestamp":"2023-02-22T01:06:15.428Z"}
+{"level":"error","message":"conexion - Error al conectar: Error: ORA-28009: la conexión como SYS debe ser como SYSDBA o SYSOPER user: sys","timestamp":"2023-02-22T01:06:16.198Z"}
+{"level":"error","message":"auth.controller - CONEXION: TypeError: Cannot read properties of undefined (reading 'execute')","timestamp":"2023-02-22T01:06:16.202Z"}
+{"level":"info","message":"POST /api/auth 403 762.464 ms - 70","timestamp":"2023-02-22T01:06:16.208Z"}
+{"level":"info","message":"server - App listening on port 3000","timestamp":"2023-02-22T01:12:07.740Z"}
+{"level":"info","message":"OPTIONS /api/auth 204 2.602 ms - 0","timestamp":"2023-02-22T01:12:19.580Z"}
+{"level":"error","message":"conexion - Error al conectar: Error: ORA-01017: nombre de usuario/contraseña no válidos; conexión denegada user: web","timestamp":"2023-02-22T01:12:21.216Z"}
+{"level":"error","message":"auth.controller - CONEXION: TypeError: Cannot read properties of undefined (reading 'execute')","timestamp":"2023-02-22T01:12:21.218Z"}
+{"level":"info","message":"POST /api/auth 403 1616.067 ms - 70","timestamp":"2023-02-22T01:12:21.224Z"}
+{"level":"info","message":"server - App listening on port 3000","timestamp":"2023-02-22T01:13:35.354Z"}
+{"level":"info","message":"OPTIONS /api/auth 204 2.503 ms - 0","timestamp":"2023-02-22T01:13:39.502Z"}
+{"level":"error","message":"conexion - Error al conectar: Error: ORA-01045: el usuario WEB no tiene privilegio CREATE SESSION; conexión denegada user: web","timestamp":"2023-02-22T01:13:40.030Z"}
+{"level":"error","message":"auth.controller - CONEXION: TypeError: Cannot read properties of undefined (reading 'execute')","timestamp":"2023-02-22T01:13:40.031Z"}
+{"level":"info","message":"POST /api/auth 403 502.049 ms - 70","timestamp":"2023-02-22T01:13:40.035Z"}
+{"level":"info","message":"OPTIONS /api/auth 204 0.234 ms - 0","timestamp":"2023-02-22T01:15:42.169Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-02-22T01:15:42.626Z"}
+{"level":"error","message":"auth.controller - CONEXION: Error: ORA-00942: la tabla o vista no existe","timestamp":"2023-02-22T01:15:42.719Z"}
+{"level":"info","message":"POST /api/auth 403 536.041 ms - 52","timestamp":"2023-02-22T01:15:42.723Z"}
+{"level":"info","message":"OPTIONS /api/auth 204 0.274 ms - 0","timestamp":"2023-02-22T01:34:04.248Z"}
+{"level":"error","message":"conexion - Error al conectar: Error: ORA-28547: connection to server failed, probable Oracle Net admin error user: web","timestamp":"2023-02-22T01:34:04.434Z"}
+{"level":"error","message":"auth.controller - CONEXION: Error: NJS-003: invalid connection","timestamp":"2023-02-22T01:34:04.436Z"}
+{"level":"error","message":"auth.controller - CERRAR-CONEXION: Error: NJS-003: invalid connection","timestamp":"2023-02-22T01:34:04.439Z"}
+{"level":"info","message":"POST /api/auth 403 172.255 ms - 42","timestamp":"2023-02-22T01:34:04.440Z"}
+{"level":"info","message":"OPTIONS /api/auth 204 0.229 ms - 0","timestamp":"2023-02-22T01:34:23.220Z"}
+{"level":"error","message":"conexion - Error al conectar: Error: ORA-28547: connection to server failed, probable Oracle Net admin error user: web","timestamp":"2023-02-22T01:34:23.406Z"}
+{"level":"error","message":"auth.controller - CONEXION: Error: NJS-003: invalid connection","timestamp":"2023-02-22T01:34:23.406Z"}
+{"level":"error","message":"auth.controller - CERRAR-CONEXION: Error: NJS-003: invalid connection","timestamp":"2023-02-22T01:34:23.407Z"}
+{"level":"info","message":"POST /api/auth 403 167.777 ms - 42","timestamp":"2023-02-22T01:34:23.408Z"}

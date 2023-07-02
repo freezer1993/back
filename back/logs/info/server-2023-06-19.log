@@ -1,0 +1,91 @@
+{"level":"info","message":"OPTIONS /api/login_admin 200 0.431 ms - 4","timestamp":"2023-06-19T23:04:57.953Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-19T23:04:58.010Z"}
+{"level":"info","message":"POST /api/login_admin 200 807.453 ms - 371","timestamp":"2023-06-19T23:04:58.764Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-19T23:04:59.801Z"}
+{"level":"info","message":"POST /api/login_admin 200 757.599 ms - 371","timestamp":"2023-06-19T23:05:00.517Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-19T23:05:02.634Z"}
+{"level":"info","message":"POST /api/login_admin 200 756.305 ms - 371","timestamp":"2023-06-19T23:05:03.344Z"}
+{"level":"info","message":"OPTIONS /api/login_admin 200 0.430 ms - 4","timestamp":"2023-06-19T23:05:04.607Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-19T23:05:04.638Z"}
+{"level":"info","message":"POST /api/login_admin 200 748.898 ms - 371","timestamp":"2023-06-19T23:05:05.357Z"}
+{"level":"info","message":"OPTIONS /api/login_admin 200 0.303 ms - 4","timestamp":"2023-06-19T23:05:22.186Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-19T23:05:22.244Z"}
+{"level":"info","message":"POST /api/login_admin 200 760.882 ms - 371","timestamp":"2023-06-19T23:05:22.949Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-19T23:05:24.014Z"}
+{"level":"info","message":"POST /api/login_admin 200 745.257 ms - 371","timestamp":"2023-06-19T23:05:24.723Z"}
+{"level":"info","message":"OPTIONS /api/login_admin 200 0.411 ms - 4","timestamp":"2023-06-19T23:05:27.226Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-19T23:05:27.265Z"}
+{"level":"info","message":"POST /api/login_admin 200 755.351 ms - 371","timestamp":"2023-06-19T23:05:27.983Z"}
+{"level":"info","message":"OPTIONS /api/login_admin 200 0.358 ms - 4","timestamp":"2023-06-19T23:05:44.075Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-19T23:05:44.112Z"}
+{"level":"info","message":"POST /api/login_admin 200 744.638 ms - 371","timestamp":"2023-06-19T23:05:44.821Z"}
+{"level":"info","message":"OPTIONS /api/login_admin 200 0.671 ms - 4","timestamp":"2023-06-19T23:10:09.335Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-19T23:10:09.385Z"}
+{"level":"info","message":"POST /api/login_admin 200 772.348 ms - 41","timestamp":"2023-06-19T23:10:10.109Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-19T23:10:14.076Z"}
+{"level":"info","message":"POST /api/login_admin 200 874.467 ms - 371","timestamp":"2023-06-19T23:10:14.921Z"}
+{"level":"info","message":"OPTIONS /api/login_admin 200 0.291 ms - 4","timestamp":"2023-06-19T23:25:33.398Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-19T23:25:33.428Z"}
+{"level":"info","message":"POST /api/login_admin 200 738.139 ms - 371","timestamp":"2023-06-19T23:25:34.137Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-19T23:29:15.047Z"}
+{"level":"info","message":"OPTIONS /api/login_admin 200 1.997 ms - 4","timestamp":"2023-06-19T23:29:22.986Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-19T23:29:23.033Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-19T23:31:47.018Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-19T23:31:56.216Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-19T23:31:56.804Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-19T23:32:14.710Z"}
+{"level":"info","message":"OPTIONS /api/login_admin 200 2.019 ms - 4","timestamp":"2023-06-19T23:32:19.989Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-19T23:32:20.037Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-19T23:33:51.043Z"}
+{"level":"info","message":"OPTIONS /api/login_admin 200 2.218 ms - 4","timestamp":"2023-06-19T23:34:02.862Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-19T23:34:02.917Z"}
+{"level":"info","message":"POST /api/login_admin 200 60.936 ms - 41","timestamp":"2023-06-19T23:34:02.928Z"}
+{"level":"info","message":"OPTIONS /api/login_admin 200 0.572 ms - 4","timestamp":"2023-06-19T23:34:09.314Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-19T23:34:09.341Z"}
+{"level":"info","message":"POST /api/login_admin 200 33.444 ms - 41","timestamp":"2023-06-19T23:34:09.350Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-19T23:34:51.747Z"}
+{"level":"info","message":"OPTIONS /api/login_admin 200 2.689 ms - 4","timestamp":"2023-06-19T23:34:55.785Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-19T23:34:55.846Z"}
+{"level":"info","message":"POST /api/login_admin 200 68.984 ms - 41","timestamp":"2023-06-19T23:34:55.856Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-19T23:36:11.352Z"}
+{"level":"info","message":"OPTIONS /api/login_admin 200 2.916 ms - 4","timestamp":"2023-06-19T23:36:15.779Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-19T23:36:15.840Z"}
+{"level":"info","message":"POST /api/login_admin 200 75.158 ms - 41","timestamp":"2023-06-19T23:36:15.857Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-19T23:37:15.404Z"}
+{"level":"info","message":"OPTIONS /api/login_admin 200 2.114 ms - 4","timestamp":"2023-06-19T23:37:18.796Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-19T23:37:18.858Z"}
+{"level":"info","message":"POST /api/login_admin 200 774.655 ms - 41","timestamp":"2023-06-19T23:37:19.575Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-19T23:38:13.957Z"}
+{"level":"info","message":"OPTIONS /api/login_admin 200 3.607 ms - 4","timestamp":"2023-06-19T23:38:50.639Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-19T23:38:50.712Z"}
+{"level":"info","message":"POST /api/login_admin 200 786.576 ms - 512","timestamp":"2023-06-19T23:38:51.428Z"}
+{"level":"info","message":"OPTIONS /api/listar_clientes_filtro_admin/null/null 404 1.247 ms - 185","timestamp":"2023-06-19T23:55:03.446Z"}
+{"level":"info","message":"OPTIONS /api/login_admin 200 0.523 ms - 4","timestamp":"2023-06-20T00:15:43.825Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-20T00:15:43.866Z"}
+{"level":"info","message":"POST /api/login_admin 200 754.031 ms - 512","timestamp":"2023-06-20T00:15:44.580Z"}
+{"level":"info","message":"OPTIONS /api/listar_clientes_filtro_admin/null/null 404 0.549 ms - 185","timestamp":"2023-06-20T00:18:20.189Z"}
+{"level":"info","message":"OPTIONS /api/listar_clientes_filtro_admin/null/null 404 0.427 ms - 185","timestamp":"2023-06-20T00:18:22.831Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-20T01:05:28.780Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-20T01:45:48.244Z"}
+{"level":"info","message":"OPTIONS /api/login_admin 200 2.434 ms - 4","timestamp":"2023-06-20T02:27:52.398Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-20T02:27:52.457Z"}
+{"level":"info","message":"POST /api/login_admin 200 777.955 ms - 512","timestamp":"2023-06-20T02:27:53.177Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides 200 1.167 ms - 8","timestamp":"2023-06-20T02:28:03.958Z"}
+{"level":"info","message":"GET /api/listar_slides 304 1.655 ms - -","timestamp":"2023-06-20T02:28:03.963Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides 200 0.506 ms - 8","timestamp":"2023-06-20T02:29:20.664Z"}
+{"level":"info","message":"GET /api/listar_slides 304 0.760 ms - -","timestamp":"2023-06-20T02:29:20.666Z"}
+{"level":"info","message":"OPTIONS /api/upload 200 0.387 ms - 8","timestamp":"2023-06-20T02:31:20.702Z"}
+{"level":"info","message":"POST /api/upload 400 3.101 ms - 972","timestamp":"2023-06-20T02:31:20.708Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides 200 0.242 ms - 8","timestamp":"2023-06-20T02:32:24.055Z"}
+{"level":"info","message":"GET /api/listar_slides 304 0.988 ms - -","timestamp":"2023-06-20T02:32:24.062Z"}
+{"level":"info","message":"GET /api/listar_slides 304 1.017 ms - -","timestamp":"2023-06-20T02:32:28.868Z"}
+{"level":"info","message":"OPTIONS /api/upload 200 0.783 ms - 8","timestamp":"2023-06-20T02:32:35.311Z"}
+{"level":"info","message":"POST /api/upload 400 1.967 ms - 972","timestamp":"2023-06-20T02:32:35.314Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-20T02:32:59.554Z"}
+{"level":"info","message":"OPTIONS /api/login_admin 200 1.951 ms - 4","timestamp":"2023-06-20T02:33:13.159Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-06-20T02:33:13.218Z"}
+{"level":"info","message":"POST /api/login_admin 200 792.269 ms - 512","timestamp":"2023-06-20T02:33:13.953Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides 200 0.850 ms - 8","timestamp":"2023-06-20T02:33:17.515Z"}
+{"level":"info","message":"GET /api/listar_slides 304 2.042 ms - -","timestamp":"2023-06-20T02:33:17.520Z"}
+{"level":"info","message":"OPTIONS /api/upload 200 1.290 ms - 8","timestamp":"2023-06-20T02:33:31.364Z"}
+{"level":"info","message":"POST /api/upload 400 2.536 ms - 972","timestamp":"2023-06-20T02:33:31.369Z"}

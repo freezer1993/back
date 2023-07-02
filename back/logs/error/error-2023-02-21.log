@@ -1,0 +1,13 @@
+{"level":"error","message":"conexion - Error al conectar: Error: ORA-28009: la conexión como SYS debe ser como SYSDBA o SYSOPER user: sys","timestamp":"2023-02-22T01:06:16.197Z"}
+{"level":"error","message":"auth.controller - CONEXION: TypeError: Cannot read properties of undefined (reading 'execute')","timestamp":"2023-02-22T01:06:16.201Z"}
+{"level":"error","message":"conexion - Error al conectar: Error: ORA-01017: nombre de usuario/contraseña no válidos; conexión denegada user: web","timestamp":"2023-02-22T01:12:21.216Z"}
+{"level":"error","message":"auth.controller - CONEXION: TypeError: Cannot read properties of undefined (reading 'execute')","timestamp":"2023-02-22T01:12:21.218Z"}
+{"level":"error","message":"conexion - Error al conectar: Error: ORA-01045: el usuario WEB no tiene privilegio CREATE SESSION; conexión denegada user: web","timestamp":"2023-02-22T01:13:40.029Z"}
+{"level":"error","message":"auth.controller - CONEXION: TypeError: Cannot read properties of undefined (reading 'execute')","timestamp":"2023-02-22T01:13:40.031Z"}
+{"level":"error","message":"auth.controller - CONEXION: Error: ORA-00942: la tabla o vista no existe","timestamp":"2023-02-22T01:15:42.719Z"}
+{"level":"error","message":"conexion - Error al conectar: Error: ORA-28547: connection to server failed, probable Oracle Net admin error user: web","timestamp":"2023-02-22T01:34:04.433Z"}
+{"level":"error","message":"auth.controller - CONEXION: Error: NJS-003: invalid connection","timestamp":"2023-02-22T01:34:04.435Z"}
+{"level":"error","message":"auth.controller - CERRAR-CONEXION: Error: NJS-003: invalid connection","timestamp":"2023-02-22T01:34:04.438Z"}
+{"level":"error","message":"conexion - Error al conectar: Error: ORA-28547: connection to server failed, probable Oracle Net admin error user: web","timestamp":"2023-02-22T01:34:23.406Z"}
+{"level":"error","message":"auth.controller - CONEXION: Error: NJS-003: invalid connection","timestamp":"2023-02-22T01:34:23.406Z"}
+{"level":"error","message":"auth.controller - CERRAR-CONEXION: Error: NJS-003: invalid connection","timestamp":"2023-02-22T01:34:23.407Z"}

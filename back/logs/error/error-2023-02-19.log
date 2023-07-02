@@ -1,0 +1,7 @@
+{"level":"error","message":"auth.controller - CONEXION: ReferenceError: oracledb is not defined","timestamp":"2023-02-20T00:50:59.749Z"}
+{"level":"error","message":"auth.controller - CERRAR-CONEXION: TypeError: conn.end is not a function","timestamp":"2023-02-20T00:50:59.757Z"}
+{"level":"error","message":"auth.controller - CONEXION: Error: ORA-00911: invalid character","timestamp":"2023-02-20T00:53:45.854Z"}
+{"level":"error","message":"conexion - Error al conectar: Error: ORA-12170: TNS:Connect timeout occurred user: web","timestamp":"2023-02-20T00:55:42.256Z"}
+{"level":"error","message":"auth.controller - CONEXION: TypeError: Cannot read properties of undefined (reading 'execute')","timestamp":"2023-02-20T00:55:42.257Z"}
+{"level":"error","message":"conexion - Error al conectar: Error: ORA-12170: TNS:Connect timeout occurred user: web","timestamp":"2023-02-20T00:57:01.935Z"}
+{"level":"error","message":"auth.controller - CONEXION: TypeError: Cannot read properties of undefined (reading 'execute')","timestamp":"2023-02-20T00:57:01.936Z"}

@@ -1,0 +1,23 @@
+{"level":"info","message":"config - CREATE-SESSION-FILE: Sessions file created successfully.","timestamp":"2023-02-20T00:28:17.449Z"}
+{"level":"info","message":"server - App listening on port 3000","timestamp":"2023-02-20T00:28:17.455Z"}
+{"level":"info","message":"server - App listening on port 3000","timestamp":"2023-02-20T00:28:17.924Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-02-20T00:50:59.748Z"}
+{"level":"error","message":"auth.controller - CONEXION: ReferenceError: oracledb is not defined","timestamp":"2023-02-20T00:50:59.749Z"}
+{"level":"error","message":"auth.controller - CERRAR-CONEXION: TypeError: conn.end is not a function","timestamp":"2023-02-20T00:50:59.757Z"}
+{"level":"info","message":"POST /api/auth 403 1307.448 ms - 38","timestamp":"2023-02-20T00:50:59.759Z"}
+{"level":"info","message":"server - App listening on port 3000","timestamp":"2023-02-20T00:52:19.471Z"}
+{"level":"info","message":"server - App listening on port 3000","timestamp":"2023-02-20T00:53:40.095Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-02-20T00:53:45.690Z"}
+{"level":"error","message":"auth.controller - CONEXION: Error: ORA-00911: invalid character","timestamp":"2023-02-20T00:53:45.855Z"}
+{"level":"info","message":"POST /api/auth 403 891.861 ms - 43","timestamp":"2023-02-20T00:53:45.869Z"}
+{"level":"info","message":"server - App listening on port 3000","timestamp":"2023-02-20T00:55:16.043Z"}
+{"level":"error","message":"conexion - Error al conectar: Error: ORA-12170: TNS:Connect timeout occurred user: web","timestamp":"2023-02-20T00:55:42.256Z"}
+{"level":"error","message":"auth.controller - CONEXION: TypeError: Cannot read properties of undefined (reading 'execute')","timestamp":"2023-02-20T00:55:42.257Z"}
+{"level":"info","message":"POST /api/auth 403 21303.197 ms - 70","timestamp":"2023-02-20T00:55:42.262Z"}
+{"level":"error","message":"conexion - Error al conectar: Error: ORA-12170: TNS:Connect timeout occurred user: web","timestamp":"2023-02-20T00:57:01.935Z"}
+{"level":"error","message":"auth.controller - CONEXION: TypeError: Cannot read properties of undefined (reading 'execute')","timestamp":"2023-02-20T00:57:01.936Z"}
+{"level":"info","message":"POST /api/auth 403 21186.632 ms - 70","timestamp":"2023-02-20T00:57:01.939Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-02-20T00:57:14.925Z"}
+{"level":"info","message":"POST /api/auth 200 798.170 ms - 274","timestamp":"2023-02-20T00:57:15.063Z"}
+{"level":"info","message":"server - App listening on port 3000","timestamp":"2023-02-20T00:57:15.526Z"}
+{"level":"info","message":"server - App listening on port 3000","timestamp":"2023-02-20T01:03:55.506Z"}

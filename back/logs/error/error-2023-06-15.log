@@ -1,0 +1,4 @@
+{"level":"error","message":"conexion - Error al conectar: Error: ORA-12514: TNS:listener does not currently know of service requested in connect descriptor user: Britaonline","timestamp":"2023-06-16T02:01:30.736Z"}
+{"level":"error","message":"conexion - Error al conectar: Error: ORA-12514: TNS:listener does not currently know of service requested in connect descriptor user: Britaonline","timestamp":"2023-06-16T02:02:43.376Z"}
+{"level":"error","message":"conexion - Error al conectar: Error: ORA-12514: TNS:listener does not currently know of service requested in connect descriptor user: BRITAONLINE","timestamp":"2023-06-16T02:04:34.615Z"}
+{"level":"error","message":"conexion - Error al conectar: Error: ORA-12514: TNS:listener does not currently know of service requested in connect descriptor user: ANAMNESIS","timestamp":"2023-06-16T02:24:12.299Z"}
