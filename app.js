@@ -14,6 +14,7 @@ var port = process.env.PORT || 4201;
 var admin_route = require('./routes/admin');
 var images_route = require('./routes/images');
 var textInf_route = require('./routes/textInf');
+var profesionales_route = require('./routes/profesionales');
 
 
 conexion.connect()
@@ -46,6 +47,7 @@ app.use((req,res,next)=>{
 app.use('/api',admin_route);
 app.use('/api',images_route);
 app.use('/api',textInf_route);
+app.use('/api',profesionales_route);
 
 //creamos el archivo
 config.createSessionsFileIfNotExists(dirPath);
