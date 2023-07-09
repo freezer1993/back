@@ -1,0 +1,5 @@
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-05T23:07:35.075Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-05T23:07:41.036Z"}
+{"level":"info","message":"GET /api/especialidades/5 200 53.888 ms - 594","timestamp":"2023-07-05T23:07:41.058Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-05T23:15:46.087Z"}
+{"level":"info","message":"GET /api/prestadores/5 200 71.940 ms - 1201","timestamp":"2023-07-05T23:15:46.108Z"}
