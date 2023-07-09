@@ -1,6 +1,6 @@
 const { logger } = require('./loggin');
 const dotenv = require('dotenv').config();
-const { CONNECSTRING, USERADMIN, PASSADMIN } = require('./config');
+const { CONNECSTRING, USERADMIN, PASSADMIN, INSTANTCLIENT} = require('./config');
 const oracledb = require('oracledb');
 const NAMESPACE = 'conexion';
 const { decrypt } = require('./crypto');
@@ -8,7 +8,7 @@ const { decrypt } = require('./crypto');
 let connection;
 
 
-oracledb.initOracleClient({ libDir: 'C:\\instantclient_11_2' });
+oracledb.initOracleClient({ libDir: INSTANTCLIENT });
 
 exports.connect= async function () {
    // var decrypted = decrypt(PASSADMIN);

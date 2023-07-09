@@ -510,3 +510,33 @@
 {"level":"info","message":"OPTIONS /api/horarios-profesionales/5/183/4 204 0.207 ms - 0","timestamp":"2023-07-09T19:44:51.377Z"}
 {"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-09T19:44:51.422Z"}
 {"level":"info","message":"GET /api/horarios-profesionales/5/183/4 304 44.213 ms - -","timestamp":"2023-07-09T19:44:51.424Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-09T20:10:08.361Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 1.392 ms - 0","timestamp":"2023-07-09T20:10:13.524Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 1.496 ms - 0","timestamp":"2023-07-09T20:10:13.530Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 7.138 ms - -","timestamp":"2023-07-09T20:10:13.542Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-09T20:10:13.578Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 43.515 ms - -","timestamp":"2023-07-09T20:10:13.588Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.164 ms - 0","timestamp":"2023-07-09T20:10:52.823Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 3.420 ms - 0","timestamp":"2023-07-09T20:10:52.833Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 14.763 ms - -","timestamp":"2023-07-09T20:10:52.851Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-09T20:10:52.915Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 69.576 ms - -","timestamp":"2023-07-09T20:10:52.923Z"}
+{"level":"info","message":"OPTIONS /api/prestadores/5 204 0.167 ms - 0","timestamp":"2023-07-09T20:11:05.372Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-09T20:11:05.400Z"}
+{"level":"info","message":"GET /api/prestadores/5 304 38.521 ms - -","timestamp":"2023-07-09T20:11:05.415Z"}
+{"level":"info","message":"OPTIONS /api/prestadores-especialidades/5/4480/null 204 0.170 ms - 0","timestamp":"2023-07-09T20:11:08.083Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-09T20:11:08.113Z"}
+{"level":"info","message":"GET /api/prestadores-especialidades/5/4480/null 304 33.198 ms - -","timestamp":"2023-07-09T20:11:08.119Z"}
+{"level":"info","message":"OPTIONS /api/horarios-profesionales/5/4480/38 204 0.149 ms - 0","timestamp":"2023-07-09T20:11:10.081Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-09T20:11:10.122Z"}
+{"level":"info","message":"GET /api/horarios-profesionales/5/4480/38 304 43.322 ms - -","timestamp":"2023-07-09T20:11:10.129Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-09T20:25:56.662Z"}
+{"level":"info","message":"OPTIONS /api/prestadores/5 204 3.143 ms - 0","timestamp":"2023-07-09T20:26:13.009Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-09T20:26:13.058Z"}
+{"level":"info","message":"GET /api/prestadores/5 304 57.994 ms - -","timestamp":"2023-07-09T20:26:13.071Z"}
+{"level":"info","message":"OPTIONS /api/prestadores-especialidades/5/4480/null 204 0.206 ms - 0","timestamp":"2023-07-09T20:26:15.852Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-09T20:26:15.907Z"}
+{"level":"info","message":"GET /api/prestadores-especialidades/5/4480/null 304 59.058 ms - -","timestamp":"2023-07-09T20:26:15.915Z"}
+{"level":"info","message":"OPTIONS /api/horarios-profesionales/5/4480/38 204 0.142 ms - 0","timestamp":"2023-07-09T20:26:17.896Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-09T20:26:17.963Z"}
+{"level":"info","message":"GET /api/horarios-profesionales/5/4480/38 304 70.869 ms - -","timestamp":"2023-07-09T20:26:17.969Z"}

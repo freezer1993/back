@@ -11,6 +11,7 @@ const API_KEY = process.env.KEY;
 const IV = process.env.IV;
 const USERADMIN = process.env.USER_ADMIN; 
 const PASSADMIN = process.env.PASS_ADMIN; 
+const INSTANTCLIENT = process.env.INSTANT_CLIENT;
 CONNECSTRING = process.env.CONECCSTRING_PROD;
 PUERTO = process.env.PORTPROD;
 //generar archivo de manejo de tokens y usuarios
@@ -51,6 +52,7 @@ module.exports = {
     IV,
     PASSADMIN,
     USERADMIN,
+    INSTANTCLIENT,
     createSessionsFileIfNotExists,
     setSessionsFile,
     getSessionsFile
