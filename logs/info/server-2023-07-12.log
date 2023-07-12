@@ -1,0 +1,197 @@
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.396 ms - 0","timestamp":"2023-07-12T14:09:12.465Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.127 ms - 0","timestamp":"2023-07-12T14:09:12.484Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 6.878 ms - -","timestamp":"2023-07-12T14:09:12.493Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:09:12.547Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 73.088 ms - -","timestamp":"2023-07-12T14:09:12.561Z"}
+{"level":"info","message":"OPTIONS /api/prestadores/5 204 0.090 ms - 0","timestamp":"2023-07-12T14:09:21.583Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:09:21.611Z"}
+{"level":"info","message":"GET /api/prestadores/5 304 967.154 ms - -","timestamp":"2023-07-12T14:09:22.553Z"}
+{"level":"info","message":"OPTIONS /api/prestadores-especialidades/5/183/null 204 0.165 ms - 0","timestamp":"2023-07-12T14:09:26.318Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:09:26.366Z"}
+{"level":"info","message":"GET /api/prestadores-especialidades/5/183/null 304 100.661 ms - -","timestamp":"2023-07-12T14:09:26.421Z"}
+{"level":"info","message":"OPTIONS /api/horarios-profesionales/5/183/4 204 0.087 ms - 0","timestamp":"2023-07-12T14:09:28.640Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:09:28.689Z"}
+{"level":"info","message":"GET /api/horarios-profesionales/5/183/4 304 72.380 ms - -","timestamp":"2023-07-12T14:09:28.715Z"}
+{"level":"info","message":"OPTIONS /api/especialidades/5 204 0.196 ms - 0","timestamp":"2023-07-12T14:09:37.085Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:09:37.146Z"}
+{"level":"info","message":"GET /api/especialidades/5 304 86.301 ms - -","timestamp":"2023-07-12T14:09:37.173Z"}
+{"level":"info","message":"OPTIONS /api/prestadores-especialidades/5/null/4 204 0.120 ms - 0","timestamp":"2023-07-12T14:09:41.692Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:09:41.720Z"}
+{"level":"info","message":"GET /api/prestadores-especialidades/5/null/4 304 42.732 ms - -","timestamp":"2023-07-12T14:09:41.739Z"}
+{"level":"info","message":"OPTIONS /api/horarios-profesionales/5/2026/4 204 0.111 ms - 0","timestamp":"2023-07-12T14:09:45.933Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:09:45.972Z"}
+{"level":"info","message":"GET /api/horarios-profesionales/5/2026/4 304 47.621 ms - -","timestamp":"2023-07-12T14:09:45.982Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.109 ms - 0","timestamp":"2023-07-12T14:10:09.124Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.086 ms - 0","timestamp":"2023-07-12T14:10:09.125Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 1.020 ms - -","timestamp":"2023-07-12T14:10:09.128Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:10:09.182Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 59.098 ms - -","timestamp":"2023-07-12T14:10:09.188Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.111 ms - 0","timestamp":"2023-07-12T14:10:38.279Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.086 ms - 0","timestamp":"2023-07-12T14:10:38.281Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 1.505 ms - -","timestamp":"2023-07-12T14:10:38.283Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:10:38.384Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 138.365 ms - -","timestamp":"2023-07-12T14:10:38.423Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides2?id_sucursal=5 204 0.127 ms - 0","timestamp":"2023-07-12T14:15:34.265Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.106 ms - 0","timestamp":"2023-07-12T14:15:34.267Z"}
+{"level":"info","message":"GET /api/listar_slides2?id_sucursal=5 304 4.137 ms - -","timestamp":"2023-07-12T14:15:34.273Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:15:35.293Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 1178.368 ms - -","timestamp":"2023-07-12T14:15:35.449Z"}
+{"level":"info","message":"OPTIONS /api/upload?id_sucursal=5 204 0.063 ms - 0","timestamp":"2023-07-12T14:15:45.204Z"}
+{"level":"info","message":"POST /api/upload?id_sucursal=5 200 23.442 ms - 43","timestamp":"2023-07-12T14:15:45.232Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides2?id_sucursal=5 204 0.067 ms - 0","timestamp":"2023-07-12T14:15:45.235Z"}
+{"level":"info","message":"GET /api/listar_slides2?id_sucursal=5 200 1.928 ms - 373","timestamp":"2023-07-12T14:15:45.239Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.100 ms - 0","timestamp":"2023-07-12T14:15:50.389Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.104 ms - 0","timestamp":"2023-07-12T14:15:50.390Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 200 1.305 ms - 193","timestamp":"2023-07-12T14:15:50.393Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:15:50.953Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 797.987 ms - -","timestamp":"2023-07-12T14:15:51.190Z"}
+{"level":"info","message":"OPTIONS /api/delete/1689171345228-69336980.jpg?id_sucursal=5 204 0.107 ms - 0","timestamp":"2023-07-12T14:16:00.922Z"}
+{"level":"info","message":"DELETE /api/delete/1689171345228-69336980.jpg?id_sucursal=5 200 3.354 ms - 59","timestamp":"2023-07-12T14:16:00.930Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides2?id_sucursal=5 204 0.125 ms - 0","timestamp":"2023-07-12T14:16:00.936Z"}
+{"level":"info","message":"GET /api/listar_slides2?id_sucursal=5 200 1.450 ms - 256","timestamp":"2023-07-12T14:16:00.939Z"}
+{"level":"info","message":"OPTIONS /api/modificar_textInf 204 0.069 ms - 0","timestamp":"2023-07-12T14:16:07.052Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:16:07.474Z"}
+{"level":"info","message":"PUT /api/modificar_textInf 200 614.212 ms - 56","timestamp":"2023-07-12T14:16:07.668Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.077 ms - 0","timestamp":"2023-07-12T14:16:07.672Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:16:08.179Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 200 577.553 ms - 366","timestamp":"2023-07-12T14:16:08.253Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.695 ms - 0","timestamp":"2023-07-12T14:16:12.317Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.178 ms - 0","timestamp":"2023-07-12T14:16:12.323Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 200 6.007 ms - 133","timestamp":"2023-07-12T14:16:12.325Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:16:12.804Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 574.794 ms - -","timestamp":"2023-07-12T14:16:12.903Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.547 ms - 0","timestamp":"2023-07-12T14:30:00.792Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.113 ms - 0","timestamp":"2023-07-12T14:30:00.794Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 9.868 ms - -","timestamp":"2023-07-12T14:30:00.806Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:30:02.674Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 2108.389 ms - -","timestamp":"2023-07-12T14:30:02.906Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.133 ms - 0","timestamp":"2023-07-12T14:34:03.449Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.097 ms - 0","timestamp":"2023-07-12T14:34:03.452Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 200 4.551 ms - 133","timestamp":"2023-07-12T14:34:03.458Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:34:03.654Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 200 250.349 ms - 366","timestamp":"2023-07-12T14:34:03.714Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.093 ms - 0","timestamp":"2023-07-12T14:36:23.439Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.096 ms - 0","timestamp":"2023-07-12T14:36:23.442Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 2.416 ms - -","timestamp":"2023-07-12T14:36:23.444Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:36:23.483Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 63.206 ms - -","timestamp":"2023-07-12T14:36:23.508Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:41:31.125Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 1.911 ms - 0","timestamp":"2023-07-12T14:41:45.765Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.632 ms - 0","timestamp":"2023-07-12T14:41:45.771Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 200 8.432 ms - 142","timestamp":"2023-07-12T14:41:45.790Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:41:45.898Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 178.206 ms - -","timestamp":"2023-07-12T14:41:45.956Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:42:23.931Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 4.942 ms - 0","timestamp":"2023-07-12T14:42:50.685Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.428 ms - 0","timestamp":"2023-07-12T14:42:50.696Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 10.257 ms - -","timestamp":"2023-07-12T14:42:50.714Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:42:50.860Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 227.883 ms - -","timestamp":"2023-07-12T14:42:50.930Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:44:12.487Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 1.109 ms - 0","timestamp":"2023-07-12T14:45:43.735Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.244 ms - 0","timestamp":"2023-07-12T14:45:43.742Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 200 9.169 ms - 142","timestamp":"2023-07-12T14:45:43.749Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:45:43.802Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 200 58.739 ms - 366","timestamp":"2023-07-12T14:45:43.809Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.254 ms - 0","timestamp":"2023-07-12T14:45:44.279Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.134 ms - 0","timestamp":"2023-07-12T14:45:44.281Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 200 1.342 ms - 142","timestamp":"2023-07-12T14:45:44.288Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:45:44.731Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 200 480.803 ms - 366","timestamp":"2023-07-12T14:45:44.771Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.309 ms - 0","timestamp":"2023-07-12T14:45:55.227Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.252 ms - 0","timestamp":"2023-07-12T14:45:55.229Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 1.053 ms - -","timestamp":"2023-07-12T14:45:55.235Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:45:55.438Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 233.822 ms - -","timestamp":"2023-07-12T14:45:55.472Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.152 ms - 0","timestamp":"2023-07-12T14:47:23.657Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.135 ms - 0","timestamp":"2023-07-12T14:47:23.658Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 2.175 ms - -","timestamp":"2023-07-12T14:47:23.663Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:47:23.684Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 30.182 ms - -","timestamp":"2023-07-12T14:47:23.690Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.277 ms - 0","timestamp":"2023-07-12T14:47:24.054Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.200 ms - 0","timestamp":"2023-07-12T14:47:24.055Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 1.990 ms - -","timestamp":"2023-07-12T14:47:24.062Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:47:24.086Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 30.329 ms - -","timestamp":"2023-07-12T14:47:24.091Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.307 ms - 0","timestamp":"2023-07-12T14:47:56.627Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.226 ms - 0","timestamp":"2023-07-12T14:47:56.634Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 4.180 ms - -","timestamp":"2023-07-12T14:47:56.640Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:47:56.665Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 28.884 ms - -","timestamp":"2023-07-12T14:47:56.670Z"}
+{"level":"info","message":"OPTIONS /api/prestadores/5 204 0.700 ms - 0","timestamp":"2023-07-12T14:49:55.818Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:49:55.878Z"}
+{"level":"info","message":"GET /api/prestadores/5 200 67.900 ms - 1201","timestamp":"2023-07-12T14:49:55.891Z"}
+{"level":"info","message":"OPTIONS /api/prestadores-especialidades/5/779/null 204 0.201 ms - 0","timestamp":"2023-07-12T14:50:07.495Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:50:07.556Z"}
+{"level":"info","message":"GET /api/prestadores-especialidades/5/779/null 200 58.094 ms - 156","timestamp":"2023-07-12T14:50:07.560Z"}
+{"level":"info","message":"OPTIONS /api/prestadores-especialidades/5/Click%20para%20buscar/null 204 0.207 ms - 0","timestamp":"2023-07-12T14:50:30.999Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:50:31.135Z"}
+{"level":"info","message":"GET /api/prestadores-especialidades/5/Click%20para%20buscar/null 500 155.210 ms - 74","timestamp":"2023-07-12T14:50:31.160Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.204 ms - 0","timestamp":"2023-07-12T14:51:11.619Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.190 ms - 0","timestamp":"2023-07-12T14:51:11.620Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 1.755 ms - -","timestamp":"2023-07-12T14:51:11.626Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:51:12.473Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 1015.005 ms - -","timestamp":"2023-07-12T14:51:12.642Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.181 ms - 0","timestamp":"2023-07-12T14:59:54.469Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.180 ms - 0","timestamp":"2023-07-12T14:59:54.471Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 1.777 ms - -","timestamp":"2023-07-12T14:59:54.475Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T14:59:54.526Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 56.043 ms - -","timestamp":"2023-07-12T14:59:54.532Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.198 ms - 0","timestamp":"2023-07-12T15:01:29.473Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.172 ms - 0","timestamp":"2023-07-12T15:01:29.475Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.146 ms - 0","timestamp":"2023-07-12T17:41:28.963Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.171 ms - 0","timestamp":"2023-07-12T17:41:28.985Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 24.396 ms - -","timestamp":"2023-07-12T17:41:28.990Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T17:41:29.027Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 44.785 ms - -","timestamp":"2023-07-12T17:41:29.037Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.138 ms - 0","timestamp":"2023-07-12T17:42:47.010Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.103 ms - 0","timestamp":"2023-07-12T17:42:47.035Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 19.196 ms - -","timestamp":"2023-07-12T17:42:47.062Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T17:42:47.102Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 56.988 ms - -","timestamp":"2023-07-12T17:42:47.156Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.157 ms - 0","timestamp":"2023-07-12T17:43:21.502Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.116 ms - 0","timestamp":"2023-07-12T17:43:21.504Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 2.629 ms - -","timestamp":"2023-07-12T17:43:21.506Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T17:43:21.569Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 66.804 ms - -","timestamp":"2023-07-12T17:43:21.575Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.156 ms - 0","timestamp":"2023-07-12T17:51:14.851Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.100 ms - 0","timestamp":"2023-07-12T17:51:14.855Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 4.052 ms - -","timestamp":"2023-07-12T17:51:14.856Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T17:51:14.886Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 34.349 ms - -","timestamp":"2023-07-12T17:51:14.892Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.125 ms - 0","timestamp":"2023-07-12T17:58:00.897Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.090 ms - 0","timestamp":"2023-07-12T17:58:00.898Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 1.961 ms - -","timestamp":"2023-07-12T17:58:00.901Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T17:58:00.933Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 38.861 ms - -","timestamp":"2023-07-12T17:58:00.939Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.121 ms - 0","timestamp":"2023-07-12T17:58:57.296Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.150 ms - 0","timestamp":"2023-07-12T17:58:57.303Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 7.184 ms - -","timestamp":"2023-07-12T17:58:57.309Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T17:58:57.337Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 32.861 ms - -","timestamp":"2023-07-12T17:58:57.343Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.125 ms - 0","timestamp":"2023-07-12T18:00:03.379Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.098 ms - 0","timestamp":"2023-07-12T18:00:03.380Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 2.323 ms - -","timestamp":"2023-07-12T18:00:03.384Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T18:00:03.423Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 46.003 ms - -","timestamp":"2023-07-12T18:00:03.430Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.593 ms - 0","timestamp":"2023-07-12T18:00:16.285Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.094 ms - 0","timestamp":"2023-07-12T18:00:16.288Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 1.574 ms - -","timestamp":"2023-07-12T18:00:16.291Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T18:00:16.367Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 82.801 ms - -","timestamp":"2023-07-12T18:00:16.374Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T18:22:58.277Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T18:23:41.850Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T18:24:48.014Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T18:25:03.368Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T18:25:36.053Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 1.693 ms - 0","timestamp":"2023-07-12T18:26:19.538Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.466 ms - 0","timestamp":"2023-07-12T18:26:19.544Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 200 15.566 ms - 157","timestamp":"2023-07-12T18:26:19.564Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T18:26:19.625Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 67.633 ms - -","timestamp":"2023-07-12T18:26:19.642Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T18:26:53.081Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 4.063 ms - 0","timestamp":"2023-07-12T18:26:57.582Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.197 ms - 0","timestamp":"2023-07-12T18:26:57.588Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 200 12.862 ms - 142","timestamp":"2023-07-12T18:26:57.599Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T18:26:57.644Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 60.923 ms - -","timestamp":"2023-07-12T18:26:57.662Z"}

@@ -8,7 +8,8 @@ const dirPath = path.join(__dirname, '/tokens-sessions.json');
 const { logger } = require('./config/loggin');
 const config = require('./config/config');
 const conexion = require('./config/conexion');
-var port = process.env.PORT || 4201;
+//const {PORT} = require('./config/config');
+var port = config.PUERTO;
 
 //var cliente_route = require('./routes/Cliente');
 var admin_route = require('./routes/admin');

@@ -3,7 +3,7 @@ const fs = require('fs')
 const { logger } = require('./loggin')
 const NAMESPACE = 'config'
 
-var PUERTO, CONNECSTRING, PASSWORD;
+var HOST, PUERTO, CONNECSTRING, PASSWORD;
 let sessionFile;
 
 const ENVIROMENT = process.env.NODE_ENV;
@@ -14,6 +14,7 @@ const PASSADMIN = process.env.PASS_ADMIN;
 const INSTANTCLIENT = process.env.INSTANT_CLIENT;
 CONNECSTRING = process.env.CONECCSTRING_PROD;
 PUERTO = process.env.PORTPROD;
+HOST = process.env.HOSTPROD;
 //generar archivo de manejo de tokens y usuarios
 const createSessionsFileIfNotExists = function(file) {
     sessionFile = file;
@@ -45,6 +46,7 @@ const getSessionsFile = function() {
 
 
 module.exports = {
+    HOST,
     PUERTO,
     ENVIROMENT,
     CONNECSTRING,

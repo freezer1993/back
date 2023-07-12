@@ -3,8 +3,10 @@
 const fs = require('fs');
 const path = require('path');
 const multer = require('multer');
+const {HOST,PUERTO} = require('../config/config');
 
-const port = process.env.PORT || 4201;
+const port = PUERTO;
+const host = HOST;
 
 // Función middleware para recibir el parámetro id_sucursal en todas las peticiones
 const setIdSucursal = (req, res, next) => {
@@ -55,7 +57,7 @@ const listar_slides = async function (req, res) {
       console.error(err);
       res.status(500).send('Error al leer la carpeta de imágenes');
     } else {
-      const imageLocations = files.map(file => `http://localhost:${port}/slides/${id_sucursal}/${file}`);
+      const imageLocations = files.map(file => `http://${host}:${port}/slides/${id_sucursal}/${file}`);
       console.log(imageLocations);
       res.json(imageLocations);
     }
@@ -73,7 +75,7 @@ const listar_slides2 = async function (req, res) {
       res.status(500).send('Error al leer la carpeta de imágenes');
     } else {
       const imageList = files.map((file, index) => {
-        const imageLocation = `http://localhost:${port}/slides/${id_sucursal}/${file}`;
+        const imageLocation = `http://${host}:${port}/slides/${id_sucursal}/${file}`;
         return {
           _id: index + 1, // Generar el _id basado en el índice
           location: imageLocation,
