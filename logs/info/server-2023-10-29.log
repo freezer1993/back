@@ -1,0 +1,51 @@
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.424 ms - 0","timestamp":"2023-10-29T22:33:43.851Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.672 ms - 0","timestamp":"2023-10-29T22:33:43.860Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 17.489 ms - -","timestamp":"2023-10-29T22:33:43.884Z"}
+{"level":"error","message":"conexion - Error al conectar: Error: ORA-12505: TNS:listener does not currently know of SID given in connect descriptor user: britaonline, conexion: (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.40.42)(PORT=1521)))(CONNECT_DATA=(SID=anam)))","timestamp":"2023-10-29T22:33:43.918Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 404 55.919 ms - 327","timestamp":"2023-10-29T22:33:43.925Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.386 ms - 0","timestamp":"2023-10-29T22:38:35.179Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.194 ms - 0","timestamp":"2023-10-29T22:38:35.182Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 5.528 ms - -","timestamp":"2023-10-29T22:38:35.190Z"}
+{"level":"error","message":"conexion - Error al conectar: Error: ORA-12505: TNS:listener does not currently know of SID given in connect descriptor user: britaonline, conexion: (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.40.42)(PORT=1521)))(CONNECT_DATA=(SID=anam)))","timestamp":"2023-10-29T22:38:35.238Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 404 50.017 ms - 327","timestamp":"2023-10-29T22:38:35.243Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.132 ms - 0","timestamp":"2023-10-29T22:38:57.704Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.061 ms - 0","timestamp":"2023-10-29T22:38:57.705Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 1.768 ms - -","timestamp":"2023-10-29T22:38:57.708Z"}
+{"level":"error","message":"conexion - Error al conectar: Error: ORA-12505: TNS:listener does not currently know of SID given in connect descriptor user: britaonline, conexion: (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.40.42)(PORT=1521)))(CONNECT_DATA=(SID=anam)))","timestamp":"2023-10-29T22:38:57.730Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 404 26.068 ms - 327","timestamp":"2023-10-29T22:38:57.735Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.171 ms - 0","timestamp":"2023-10-29T22:48:45.078Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.098 ms - 0","timestamp":"2023-10-29T22:48:45.080Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 2.120 ms - -","timestamp":"2023-10-29T22:48:45.081Z"}
+{"level":"error","message":"conexion - Error al conectar: Error: ORA-12505: TNS:listener does not currently know of SID given in connect descriptor user: britaonline, conexion: (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.40.42)(PORT=1521)))(CONNECT_DATA=(SID=anam)))","timestamp":"2023-10-29T22:48:45.091Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 404 11.702 ms - 327","timestamp":"2023-10-29T22:48:45.094Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.108 ms - 0","timestamp":"2023-10-29T22:48:53.206Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.141 ms - 0","timestamp":"2023-10-29T22:48:53.208Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 3.829 ms - -","timestamp":"2023-10-29T22:48:53.215Z"}
+{"level":"error","message":"conexion - Error al conectar: Error: ORA-12505: TNS:listener does not currently know of SID given in connect descriptor user: britaonline, conexion: (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.40.42)(PORT=1521)))(CONNECT_DATA=(SID=anam)))","timestamp":"2023-10-29T22:48:53.230Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 404 18.484 ms - 327","timestamp":"2023-10-29T22:48:53.236Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.122 ms - 0","timestamp":"2023-10-29T22:50:36.686Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.116 ms - 0","timestamp":"2023-10-29T22:50:36.688Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 1.818 ms - -","timestamp":"2023-10-29T22:50:36.692Z"}
+{"level":"error","message":"conexion - Error al conectar: Error: ORA-12505: TNS:listener does not currently know of SID given in connect descriptor user: britaonline, conexion: (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.40.42)(PORT=1521)))(CONNECT_DATA=(SID=anam)))","timestamp":"2023-10-29T22:50:36.709Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 404 17.849 ms - 327","timestamp":"2023-10-29T22:50:36.712Z"}
+{"level":"error","message":"conexion - Error al conectar: Error: ORA-12505: TNS:listener does not currently know of SID given in connect descriptor user: britaonline, conexion: (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.40.42)(PORT=1521)))(CONNECT_DATA=(SID=anam)))","timestamp":"2023-10-29T22:52:07.489Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 1.553 ms - 0","timestamp":"2023-10-29T23:01:25.829Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.365 ms - 0","timestamp":"2023-10-29T23:01:25.876Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 27.827 ms - -","timestamp":"2023-10-29T23:01:25.958Z"}
+{"level":"error","message":"conexion - Error al conectar: Error: ORA-12505: TNS:listener does not currently know of SID given in connect descriptor user: britaonline, conexion: (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.40.42)(PORT=1521)))(CONNECT_DATA=(SID=anam)))","timestamp":"2023-10-29T23:01:25.980Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 404 42.492 ms - 381","timestamp":"2023-10-29T23:01:26.004Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.461 ms - 0","timestamp":"2023-10-29T23:02:50.156Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.277 ms - 0","timestamp":"2023-10-29T23:02:50.159Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 3.079 ms - -","timestamp":"2023-10-29T23:02:50.169Z"}
+{"level":"error","message":"conexion - Error al conectar: Error: ORA-12505: TNS:listener does not currently know of SID given in connect descriptor user: britaonline, conexion: (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.40.42)(PORT=1521)))(CONNECT_DATA=(SID=anam)))","timestamp":"2023-10-29T23:02:50.191Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 404 23.397 ms - 381","timestamp":"2023-10-29T23:02:50.194Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.746 ms - 0","timestamp":"2023-10-29T23:05:18.543Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.137 ms - 0","timestamp":"2023-10-29T23:05:18.546Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 3.523 ms - -","timestamp":"2023-10-29T23:05:18.551Z"}
+{"level":"error","message":"conexion - Error al conectar: Error: ORA-12505: TNS:listener does not currently know of SID given in connect descriptor user: britaonline, conexion: (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.40.42)(PORT=1521)))(CONNECT_DATA=(SID=anam)))","timestamp":"2023-10-29T23:05:18.579Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 404 28.641 ms - 381","timestamp":"2023-10-29T23:05:18.581Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.165 ms - 0","timestamp":"2023-10-29T23:09:29.910Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.132 ms - 0","timestamp":"2023-10-29T23:09:29.912Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 5.451 ms - -","timestamp":"2023-10-29T23:09:29.917Z"}
+{"level":"error","message":"conexion - Error al conectar: Error: ORA-12505: TNS:listener does not currently know of SID given in connect descriptor user: britaonline, conexion: (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.40.42)(PORT=1521)))(CONNECT_DATA=(SID=anam)))","timestamp":"2023-10-29T23:09:29.928Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 404 12.055 ms - 381","timestamp":"2023-10-29T23:09:29.930Z"}

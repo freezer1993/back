@@ -1,0 +1,5 @@
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.713 ms - 0","timestamp":"2023-10-24T21:38:30.733Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.195 ms - 0","timestamp":"2023-10-24T21:38:30.758Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 12.674 ms - -","timestamp":"2023-10-24T21:38:30.786Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-10-24T21:38:30.799Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 53.304 ms - -","timestamp":"2023-10-24T21:38:30.814Z"}

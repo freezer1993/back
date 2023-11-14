@@ -1,0 +1,10 @@
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.929 ms - 0","timestamp":"2023-11-14T21:18:15.694Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.211 ms - 0","timestamp":"2023-11-14T21:18:15.728Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 15.300 ms - -","timestamp":"2023-11-14T21:18:15.746Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-11-14T21:18:15.993Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 200 296.249 ms - 366","timestamp":"2023-11-14T21:18:16.045Z"}
+{"level":"info","message":"OPTIONS /api/listar_slides?id_sucursal=5 204 0.128 ms - 0","timestamp":"2023-11-14T21:32:27.297Z"}
+{"level":"info","message":"OPTIONS /api/listar_textInf/5 204 0.071 ms - 0","timestamp":"2023-11-14T21:32:27.299Z"}
+{"level":"info","message":"GET /api/listar_slides?id_sucursal=5 304 1.947 ms - -","timestamp":"2023-11-14T21:32:27.301Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-11-14T21:32:27.328Z"}
+{"level":"info","message":"GET /api/listar_textInf/5 304 31.574 ms - -","timestamp":"2023-11-14T21:32:27.334Z"}

@@ -195,3 +195,4 @@
 {"level":"info","message":"GET /api/listar_slides?id_sucursal=5 200 12.862 ms - 142","timestamp":"2023-07-12T18:26:57.599Z"}
 {"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T18:26:57.644Z"}
 {"level":"info","message":"GET /api/listar_textInf/5 304 60.923 ms - -","timestamp":"2023-07-12T18:26:57.662Z"}
+{"level":"info","message":"conexion - Conexión establecida","timestamp":"2023-07-12T18:28:16.871Z"}
