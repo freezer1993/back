@@ -6,14 +6,14 @@ const NAMESPACE = 'conexion';
 const { decrypt } = require('./crypto');
 
 let connection;
-
-if (SERVER==='WINDOWS'){
+let servidor=SERVER;
+if (servidor==='WINDOWS'){
    oracledb.initOracleClient({ libDir: INSTANTCLIENT });
 }
 
 exports.connect= async function () {
    // var decrypted = decrypt(PASSADMIN);
-    if (SERVER='WINDOWS'){
+    if (servidor='WINDOWS'){
         try {
             connection = await oracledb.getConnection({
                 user: USERADMIN,
@@ -26,7 +26,7 @@ exports.connect= async function () {
             logger.error(`${NAMESPACE} - Error al conectar: ${err} user: ${USERADMIN}, conexion: ${CONNECSTRING}`);
             throw new Error(`${NAMESPACE} - Error al conectar: ${err} user: ${USERADMIN}, conexion: ${CONNECSTRING}`);
         }
-    } else if (SERVER='LINUX'){
+    } else if (servidor='LINUX'){
         try {
             process.env.LD_LIBRARY_PATH=INSTANT_CLIENT_LINUX;
             connection = await oracledb.getConnection({
